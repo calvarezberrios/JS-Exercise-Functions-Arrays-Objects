@@ -278,6 +278,7 @@ function getGermanCars(inventory) {
   const germanCars = [];
 
   for (let i = 0; i < inventory.length; i++) {
+    
     if ( inventory[i].car_make == "Audi" 
       || inventory[i].car_make == "Mercedes-Benz" 
       || inventory[i].car_make == "Volkswagen" 
@@ -287,6 +288,8 @@ function getGermanCars(inventory) {
   }
   return germanCars;
 }
+
+
 
 /**
  * ### Challenge refactor to arrow functions
@@ -298,8 +301,8 @@ function getGermanCars(inventory) {
  *   return a + b
  * }
  * 
- * const addFive = function(num) {
-*    return num + 5
+ * const ad 5dFive = function(num) {
+*    return num +
  * }
  *
  * const argTimesTwo = function (num) {
