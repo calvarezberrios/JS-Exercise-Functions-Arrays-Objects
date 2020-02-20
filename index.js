@@ -1,4 +1,4 @@
-// ⭐️ Example Challenge start ⭐️ sdfsdfsdf
+// ⭐️ Example Challenge start ⭐️
 
 /**
  * ### Challenge `addNumbers`
